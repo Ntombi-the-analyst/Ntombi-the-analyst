@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Ntombi-the-analyst
-- 👀 I’m interested in Data Analysis
+- 👋 Hi, I’m Ntombiyokuthula Khwela
+- 👀 I’m interested in Data Analysis, Data Science
 - 🌱 I’m currently learning Data Analysis, SQL, PowerBi, Python
 - 💞️ I’m looking to collaborate on Data Analysis with Python, 
 - 📫 How to reach me khwelalungile1@gmail.com, www.linkedin.com/in/ntombiyokuthula-khwela-b07831ba
